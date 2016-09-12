@@ -1,10 +1,10 @@
 # Pepo
 A framework For HTML5 Canvas Game.
 ##What can Pepo do?
-  Pepo is a frameword for web game,which can privide a series of tool to let you build your game quickly.And it can adapte all kind of screen size.\<br>
-  Above all , you can build your own plug for pepo like jQuery.\<br>
-  This version contains : Kernel module , Audio module , Graphics module , Input module , and a small Tool module . \<br>
-  Welcome to build your modules and our modules.\<br>
+  Pepo is a frameword for web game,which can privide a series of tool to let you build your game quickly.And it can adapte all kind of screen size.<br>
+  Above all , you can build your own plug for pepo like jQuery.<br>
+  This version contains : Kernel module , Audio module , Graphics module , Input module , and a small Tool module . <br>
+  Welcome to build your modules and our modules.<br>
 ##APIs
   ###pepo.js : kernel of pepo
     pepo.require(src)  :  include the pepo module;\<br>
